@@ -11,7 +11,7 @@ Link to download Git: https://git-scm.com/downloads
 
 3. In Pycharm, or another editor, open the file in the directory where the project was copied.
 
-4. In the terminal, enter python manage.py runserver.
+4. In the terminal, enter cd website, then python manage.py runserver.
 
 5. Follow the link that will give you.
 
